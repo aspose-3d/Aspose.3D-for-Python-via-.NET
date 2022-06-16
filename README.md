@@ -64,26 +64,26 @@ Please visit the [official documentation](https://docs.aspose.com/3d/python-net/
 
 ## Read & Write 3D File Formats
 
-**Autodesk&reg; 3D Studio:** 3DS
-**CAD:** AMF, OBJ
-**AVEVA PDMS:** RVM
-**COLLADA:** DAE
-**Google Draco:** DRC
-**MotionBuilder:** FBX
-**3D Models:** GLB
-**Acrobat&reg;:** PDF
-**3D Scanning:** PLY
-**3D Printing:** STL
+**Autodesk&reg; 3D Studio:** 3DS\
+**CAD:** AMF, OBJ\
+**AVEVA PDMS:** RVM\
+**COLLADA:** DAE\
+**Google Draco:** DRC\
+**MotionBuilder:** FBX\
+**3D Models:** GLB\
+**Acrobat&reg;:** PDF\
+**3D Scanning:** PLY\
+**3D Printing:** STL\
 **3D PDF:** U3D
 
 ## Load 3D File Formats
 
-**Microsoft&reg; 3D Builder:** 3MF
-**Autodesk&reg;:** ASE
-**AutoCAD&reg;:** DXF
-**Siemens&reg; PLM:** JT
-**Pixar&reg;:** USD, USDZ
-**Virtual Reality:** VRML
+**Microsoft&reg; 3D Builder:** 3MF\
+**Autodesk&reg;:** ASE\
+**AutoCAD&reg;:** DXF\
+**Siemens&reg; PLM:** JT\
+**Pixar&reg;:** USD, USDZ\
+**Virtual Reality:** VRML\
 **DirectX 3D:** X
 
 ## Save 3D Files AS
@@ -137,6 +137,6 @@ scene.save("Cylinder.fbx", a3d.FileFormat.FBX7400ASCII)
 
 ## Create a 3D PDF with a Cylinder
 
-{{< gist aspose-3d-gists cfde9f76113134443c76608c1d19453a >
+{{< gist aspose-3d-gists cfde9f76113134443c76608c1d19453a >}}
 
 [Product Page](https://products.aspose.com/3d/python-net/) | [Docs](https://docs.aspose.com/3d/python-net/) | [Demos](https://products.aspose.app/3d/family) | [API Reference](https://reference.aspose.com/3d/net/) | [Examples](https://github.com/aspose-3d/Aspose.3D-for-Python-via-.NET) | [Blog](https://blog.aspose.com/category/3d/) | [Free Support](https://forum.aspose.com/c/3d/18) | [Temporary License](https://purchase.aspose.com/temporary-license)
